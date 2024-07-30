@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day1_introduction.md",
+                "file": "Day 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1ed8be325cf47dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day1_introduction.md",
+                "file": "Day 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day1_introduction.md",
+                "file": "Day 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day1_introduction.md"
+                "file": "Day 2.md"
               }
             }
           }
@@ -146,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f45f6841496814b8",
+  "active": "03236f14f6944b33",
   "lastOpenFiles": [
-    "Pasted image 20240730215012.png",
     "Day1_introduction.md",
+    "Pasted image 20240730215012.png",
     "README.md",
     "Programming_Demo.md",
     "Day 2.md",
