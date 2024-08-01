@@ -2,7 +2,7 @@
 # Kali Linux
 - previously known as *Backtrack*
 - **Kali Linux** is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and founded by Offensive Security.
-### Use full Softwares in Kali linux
+### Use full Softwares in Kali Linux
 1. Information gathering
     - nmap
 2. vulnerability Analysis
