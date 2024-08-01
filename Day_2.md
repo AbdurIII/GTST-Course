@@ -1,4 +1,4 @@
-# Intro to Linux
+# Introduction to Linux
 - **Linux** is a Kernel.
 - *Kernel* is a code/program that used to meet your Software and Hardware. And allocate some resources.
 -  **LINUS TORVALDS** Created the Linux kernel using c programming language and **Richard Stallman** announced the GNU project.
