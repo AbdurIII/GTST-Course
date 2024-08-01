@@ -42,4 +42,4 @@
 2. adduser(detailed) - automatically created in /home directory.
 - The Users file are stored inside */etc/passwd*.
 - Thee users password are stored inside */etc/shadow*.
-**sudo su** - a command that gives root user privilege. 
+- **sudo su** - a command that gives root user privilege. 
