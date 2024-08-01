@@ -1,4 +1,4 @@
-## Further on Linux
+# Further on Linux
 ### Linux File Hierarchy
 - File system is a directory structure that the OS uses.
 - windows : local disk C
