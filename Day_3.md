@@ -69,7 +69,7 @@
 - ==touch
     - Creates any kind of Files with the name you gave it. With empty inside.
 - ==mkdir/ make directory
-    - Creates Folder with the name u gave it.
+    - Creates Folder with the name you gave it.
 - ==clear
     - Clears your screen.
 - ==rm/ remove

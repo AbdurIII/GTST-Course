@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b3db2d7208996ec",
+            "id": "62a2bf80c6110dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day_4.md",
+                "file": "Day_5.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a1ed8be325cf47dc",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day_4.md",
+                "file": "Day_5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day_4.md",
+                "file": "Day_5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day_4.md"
+                "file": "Day_5.md"
               }
             }
           }
@@ -146,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b3db2d7208996ec",
+  "active": "62a2bf80c6110dfe",
   "lastOpenFiles": [
+    "Day_5.md",
     "Day_3.md",
-    "Day_4.md",
     "Day_2.md",
     "Day_1.md",
+    "Day_4.md",
     "Pasted image 20240730215012.png",
     "README.md",
     "Programming_Demo.md",
