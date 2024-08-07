@@ -5,7 +5,7 @@
 - to change user id = ==sudo usermod -u new_id username
 - to delete user = ==sudo userdel -r username
 - to change user on terminal = ==su - username
-- to allocate a user created by *useradd* command in home directory = ==usdo mkhomedir_helper username
+- to allocate a user created by *useradd* command in home directory = ==sudo mkhomedir_helper username
 - to change users shell type = ==sudo usermod username -s /bin/shelltype
 - The *sudoers file* is a file Linux and Unix administrators use to allocate system rights to system users.
 - The user you created doesn’t have power to use sudo as the original one.
