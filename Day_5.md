@@ -1,6 +1,6 @@
 # Advanced Linux User
 ### Further on user management
-##### some advanced user comands
+##### some advanced user commands
 - to change password of user = ==sudo passwd username
 - to change user id = ==sudo usermod -u new_id username
 - to delete user = ==sudo userdel -r username
