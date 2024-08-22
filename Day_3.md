@@ -6,7 +6,7 @@
 1. Information gathering
     - nmap
 2. vulnerability Analysis
-    - nito
+    - nikto
     - nmap
 3. Web Application Analysis
     - burpsuit
