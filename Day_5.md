@@ -25,7 +25,7 @@
     - Read(r)
     - Write(w)
     - Execute(x)
-- begins with **d** = file and begins with **-** = file
+- begins with **d** = folder and begins with **-** = file
 - permission have 3 parts **user(u)**, **group(u)**, **other(o)**. 
 - to change file permission = ==sudo chmod [option] filename
 - Each of the permission have a number representations.
@@ -55,6 +55,6 @@
 - so, a program to work properly, the **package dependencies** have to be installed successfully.
 - **Dpkg** is an offline package managing program.
 - syntax
-    - sudo dpkg -i [package name]
-    - sudo dpkg -r [package name]
-    - sudo dpkg -p [package name]
+    - sudo dpkg -i [package name] --> to install 
+    - sudo dpkg -r [package name] --> to remove
+    - sudo dpkg -p [package name] --> to purge
