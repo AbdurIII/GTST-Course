@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9f0bd2f9c67fc75a",
+        "id": "bd03da96440e3c72",
         "type": "tabs",
         "children": [
           {
-            "id": "d6d4a48dc7917afd",
+            "id": "cb3242ffa72a5a82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day_5.md",
+                "file": "THM/Wgel.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Wgel"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a1ed8be325cf47dc",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day_5.md",
+                "file": "THM/Wgel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wgel"
             }
           },
           {
@@ -103,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day_5.md",
+                "file": "THM/Wgel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wgel"
             }
           },
           {
@@ -116,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day_5.md"
-              }
+                "file": "THM/Wgel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wgel"
             }
           }
         ]
@@ -147,15 +168,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6d4a48dc7917afd",
+  "active": "cb3242ffa72a5a82",
   "lastOpenFiles": [
+    "THM/Basic Pentest.md",
+    "THM/Wgel.md",
+    "Selection_021 1.png",
+    "TryHackMe_Basic Pentesting_Chromium_001.png",
+    "Selection_016.png",
+    "Selection_015 1.png",
+    "Selection_014 1.png",
+    "abdiii@KaLi_004.png",
+    "Selection_013 1.png",
+    "Selection_013.png",
+    "abdiii@KaLi_003.png",
+    "Selection_012 1.png",
+    "Untitled.md",
+    "THM",
+    "Day_5.md",
     "Day_3.md",
     "Day_6.md",
-    "Day_5.md",
     "Day_2.md",
     "Day_1.md",
     "Day_4.md",
-    "Pasted image 20240730215012.png",
     "README.md",
     "Programming_Demo.md",
     "Day1_introduction"
